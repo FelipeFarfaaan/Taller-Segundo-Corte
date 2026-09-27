@@ -1,0 +1,8 @@
+pybullet
+numpy
+scipy
+gymnasium
+transforms3d
+matplotlib
+pillow
+pyserial
