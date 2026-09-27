@@ -212,7 +212,8 @@ flowchart LR
 | B → C | 2.42 m | 6.0 s | 2.0 cm |
 
 <!-- VIDEO INCISO A: arrastra el video aquí al editar el README en GitHub -->
-**Video:** _pendiente_
+**Video:** https://github.com/user-attachments/assets/63ecc98b-6a44-4348-a5da-03ac6bb9b98f
+
 
 ### Explicación del código
 
