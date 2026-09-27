@@ -212,8 +212,7 @@ flowchart LR
 | B → C | 2.42 m | 6.0 s | 2.0 cm |
 
 <!-- VIDEO INCISO A: arrastra el video aquí al editar el README en GitHub -->
-**Video:** https://github.com/user-attachments/assets/63ecc98b-6a44-4348-a5da-03ac6bb9b98f
-
+**Video:** _pendiente_
 
 ### Explicación del código
 
@@ -294,8 +293,7 @@ flowchart LR
 - El brazo izquierdo cogió el cubo verde, lo levantó 18 cm y lo dejó en la zona roja, a **1.7 cm** del centro.
 - El brazo derecho giró la muñeca, cogió el cubo azul, lo levantó 25 cm y lo trasladó unos 14 cm sin soltarlo.
 
-<!-- VIDEO INCISO B -->
-**Video:** _pendiente_
+**Video:** https://youtu.be/WYcgGRIOXec
 
 ### Explicación del código
 
@@ -373,8 +371,7 @@ flowchart LR
 - Se recorrieron los 5 modos llevando las perillas de un extremo al otro. **Con arnés**, el robot no se cayó y los pies se movieron alrededor de 1 cm.
 - **Sin arnés**, el robot se cae; el programa lo detecta y RESET lo vuelve a poner de pie.
 
-<!-- VIDEO INCISO C -->
-**Video:** _pendiente_
+**Video:** https://youtu.be/erM-Vhn9W_w
 
 ### Explicación del código
 
